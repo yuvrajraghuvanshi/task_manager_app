@@ -3,10 +3,6 @@
 
 1. Install all the dependencies in both frontend and backend
 
-   ```
-  npm i 
-   ```
-
 2. Create a file named ".env" inside the backend folder. Add data from .env.example file and substitute your credentials there.
 
 3. Start the application
