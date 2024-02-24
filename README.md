@@ -9,11 +9,10 @@
 4. Start the application
 
  ##frontend
-  - npm start
-  - 
+  - ``` npm start```
  ##backend
-   - nodemon
-   - npm run dev
+   - ```nodemon```
+   - ```npm run dev```
 
 4. Go to http://localhost:3000
 
