@@ -3,7 +3,7 @@
 
 1. Install all the dependencies in both frontend and backend
 
-   ```sh
+   ```
   npm i 
    ```
 
