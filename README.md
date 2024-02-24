@@ -10,6 +10,7 @@
 
  ##frontend
   - ``` npm start```
+    
  ##backend
    - ```nodemon```
    - ```npm run dev```
